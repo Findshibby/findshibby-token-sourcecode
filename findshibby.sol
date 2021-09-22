@@ -1,4 +1,3 @@
-//developed by snipe.finance
 pragma solidity ^0.7.6;
 
 /**
