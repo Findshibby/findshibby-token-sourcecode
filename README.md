@@ -4,7 +4,6 @@ FindShibby is the new token on ETH & BSC that has actual real-world usecases.
 
 With FindShibby you can earn rewards of your choice just by holding, rescue pets via the FindShibby app, help streetdogs and other animals by donating to charity and help to develop unique, healthy dog treats manufactured using 100% renewable energy!
 
-Use a diffchecker to verify our contract is secure: https://www.diffchecker.com/7o71qrFO
 
 Total Supply Distribution:
 
@@ -29,6 +28,6 @@ Total Supply Distribution:
 https://bscscan.com/token/0x9a21477b4e9ea5f7946d75876a186a1194559828
 
 
-Team Funds Lock
+Team & Project Funds Lock
 
-https://github.com/shibbyfinance/shibby-tokenlock
+https://github.com/shibbyfinance/findshibby-tokenlock
