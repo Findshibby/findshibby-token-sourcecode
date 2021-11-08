@@ -9,12 +9,19 @@ Use a diffchecker to verify our contract is secure: https://www.diffchecker.com/
 Total Supply Distribution:
 
 36.74 % Migration v1 to v2
+
 20.00 % Private Sale
+
 17.27 % burned (sent to dead adress)
+
 19.58 % Locked Liquidity (locked on pink sale)
+
 4.13 % Migration Bridge 
+
 1.11 % Token Vesting  
+
 1.00 % Project lock  
+
 
 
 
