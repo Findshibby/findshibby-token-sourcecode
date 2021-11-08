@@ -30,4 +30,4 @@ https://bscscan.com/token/0x9a21477b4e9ea5f7946d75876a186a1194559828
 
 Team & Project Funds Lock
 
-https://github.com/shibbyfinance/findshibby-tokenlock
+https://github.com/Findshibby/findshibby-tokenlock
